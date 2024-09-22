@@ -85,8 +85,8 @@ module game::in_game_token {
      - `owner`: The address of the player whose balance is being queried.
 
 ## Development
-**Contract Address**: 
-**Transaction ID**: 
+**Contract Address**: https://explorer.aptoslabs.com/txn/0xa5d76322b58a8124b22e251bd8eb75e87ca7e08b50059ad3f30f56daecb29103?network=testnet
+**Transaction ID**: 0xa5d76322b58a8124b22e251bd8eb75e87ca7e08b50059ad3f30f56daecb29103
 
 ## Future Scope
 
@@ -96,3 +96,5 @@ module game::in_game_token {
 4. **In-Game NFT Integration**: Extend the contract to handle NFTs representing rare in-game items or collectibles that can be purchased or traded using the in-game currency.
 5. **Burn Mechanism**: Introduce a burn mechanism for token deflationary control, enhancing token scarcity and long-term value.
 6. **Upgradable Governance**: Develop governance contracts for decentralized control over token economics, letting the player community vote on game economic policies.
+
+![image](https://github.com/user-attachments/assets/a8dc4689-8c55-4b73-921b-1b30fec59640)
