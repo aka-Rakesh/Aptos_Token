@@ -1,1 +1,18 @@
+[package]
+name = "in_game_token"
+version = "0.0.1"
+license = "Apache-2.0"
+authors = ["Rakesh Sharma <rs1063144@gmail.com>"]
 
+[dependencies]
+AptosFramework = { local = "../../aptos-core/aptos-move/framework/aptos-framework" }
+
+[dev_dependencies]
+AptosStdlib = { local = "../../aptos-core/aptos-move/framework/aptos-stdlib" }
+
+[addresses]
+aptos_framework = "0x1"
+game = "0xYourGameAddressHere"  # Replace with the correct address for your contract deployment
+
+[build]
+install_dir = "./build"
