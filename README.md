@@ -84,7 +84,7 @@ module game::in_game_token {
    - **Parameters**: 
      - `owner`: The address of the player whose balance is being queried.
 
-## Development
+## Deployment
 **Contract Address**: https://explorer.aptoslabs.com/txn/0xa5d76322b58a8124b22e251bd8eb75e87ca7e08b50059ad3f30f56daecb29103?network=testnet
 **Transaction ID**: 0xa5d76322b58a8124b22e251bd8eb75e87ca7e08b50059ad3f30f56daecb29103
 
